@@ -23,7 +23,7 @@ require("simple-livescript-watch")()
 I have also tried to make it beatiful to your eyes IF you like your command line to have a black background
 If someone knows how to add templates to command lines stuff please send me an email !
 
-http://i.imgur.com/tXZXFFD.png
+![alt text](http://i.imgur.com/tXZXFFD.png)
 
 If you want to report and bug or want me to add any feature that you would like, please send me an email, I am really interested in hearing from you !
 

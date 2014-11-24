@@ -25,7 +25,7 @@ If someone knows how to add templates to command lines stuff please send me an e
 
 ![alt text](http://i.imgur.com/tXZXFFD.png)
 
-If you want to report and bug or want me to add any feature that you would like, please send me an email, I am really interested in hearing from you !
+If you want to report any bug or want me to add any feature that you would like, please send me an email, I am really interested in hearing from you !
 
 I have customized it slighly with file deletion and creation since I dont like to pollute my directory with many javascript files.
 
